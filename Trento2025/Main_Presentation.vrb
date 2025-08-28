@@ -1,0 +1,6 @@
+\frametitle{Comparison of different Expansion methods}
+\centering
+    \includegraphics[width=0.87\linewidth,trim={0 0.7cm 0 0.6cm}, clip]{Images/Figures/diffchi2_3A.pdf}\\
+    \includegraphics[width=0.87\linewidth,trim={0 0.7cm 0 0.6cm}, clip]{Images/Figures/diffchi2_3.pdf}\\
+    \includegraphics[width=0.87\linewidth,trim={0 0 0 0.6cm}, clip]{Images/Figures/diffchi2_3B.pdf}\\
+    {\centering \scriptsize arXiv: 2403.06770 \par}

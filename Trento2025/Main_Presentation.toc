@@ -1,0 +1,10 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{QCD phase structure}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Extrapolation to finite density}{6}{0}{1}
+\beamer@sectionintoc {2}{EoS from fRG}{10}{0}{2}
+\beamer@subsectionintoc {2}{1}{Polyakov-Quark-Meson (PQM) Model}{11}{0}{2}
+\beamer@subsectionintoc {2}{2}{Comparison of different Expansion methods}{15}{0}{2}
+\beamer@sectionintoc {3}{Summary}{21}{0}{3}
+\beamer@sectionintoc {4}{Appendix I}{25}{1}{4}
+\beamer@sectionintoc {5}{Appendix II}{27}{1}{5}
